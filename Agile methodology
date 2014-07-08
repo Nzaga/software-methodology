@@ -1,0 +1,49 @@
+what is agile
+agile movement purposes alternative to traditional project mangament.
+It is applied to software development to help businesses respond to unpredictability.
+
+what is a scrum
+is the way of implementation of the agility..
+
+Scrum is a management framework for incremental product development, using cross-functional, self-organizing teams.
+
+Scrum provides the following
+	structure of roles
+	meetings
+	rules
+	airfacts
+  As a team member i should be responsible for creating and adapting   the process within the framework.
+
+Scrum emphasizes 
+	empirical feedback, 
+	team self management, and 
+	striving to build properly tested product increments within 		short iterations. 
+
+Sprints are fixed-length iterations.
+Within every iteration the team attempt to build a potential properly tested product.
+
+Scrum roles
+1.product owner
+2.scrum development team
+3.scrum master
+
+scrub meeting
+Facilitated by the scrub master.
+have no decision-making authority at these meetings...
+
+scrum meetings..
+sprint plaaning meeting
+daily scrum
+Sprint Reveiw meeting
+Sprint retrospecive meeting
+
+Product Backlog Items meeting
+collections of the requirements from the product owner
+It is common to write Product Backlog Items in User Story form.
+drop the user story-like language to prevent confusion.
+
+sprint planning meeting.
+the Product Owner and team hold a
+Sprint Planning Meeting to negotiate which Product Backlog Items they
+will attempt to convert to working product during the Sprint.
+The team is responsible for selecting the amount of work they feel they can implement without accruing technical debt [high cost of future change --mj]. The team “pulls” work from the Product Backlog to the Sprint Backlog.
